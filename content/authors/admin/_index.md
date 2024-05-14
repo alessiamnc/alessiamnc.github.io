@@ -55,6 +55,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:alessia.menichetti@phdstudent.hhs.se'
+  - icon: linkedin
+    icon_pack: fas
+    link: 'www.linkedin.com/in/alessia-menichetti-1a0975100'
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
     # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
