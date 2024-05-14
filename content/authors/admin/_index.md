@@ -25,12 +25,13 @@ organizations:
     url: https://www.hhs.se/en/Research/Departments/DF/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include finance theory, asset pricing, household finance.
+bio: My research interests include finance theory, asset pricing, information economics and household finance.
 
 # Interests to show in About widget
 interests:
   - Finance theory
   - Asset pricing
+  - Information economics
   - Household finance
 
 # Education to show in About widget
