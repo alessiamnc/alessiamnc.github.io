@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Skills
       text: ''
@@ -51,6 +52,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Experience
       # Date format for experience
@@ -86,6 +88,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -128,6 +131,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     id: posts
     content:
       title: Recent Posts
@@ -155,6 +159,7 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     id: projects
     content:
       title: Projects
@@ -182,6 +187,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Gallery
       subtitle: ''
@@ -201,6 +207,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Recent Publications
       text: |-
@@ -215,6 +222,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     id: talks
     content:
       title: Recent & Upcoming Talks
@@ -225,6 +233,7 @@ sections:
       columns: '2'
       view: compact
   - block: tag_cloud
+   demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Popular Topics
     design:
@@ -234,50 +243,33 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text: 
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      email: alessia.menichetti@phdstudent.hhs.se
+      phone: +46 7024032450
+      # appointment_url: 'https://calendly.com'
+      address: 
+        street: Bertil Ohlins gata 4
+        city: Stockholm
+       # region: 
+        postcode: '11350'
+        country: Sweden
+        country_code: SE
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+       # - 'Monday 10:00 to 13:00'
+       # - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+      # coordinates:
+      #  latitude: '37.4275'
+      #  longitude: '-122.1697'  
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Reach out on Twitter 
           link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+    
 ---
