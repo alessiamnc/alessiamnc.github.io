@@ -57,7 +57,7 @@ social:
     link: 'mailto:alessia.menichetti@phdstudent.hhs.se'
   - icon: linkedin
     icon_pack: fab
-    link: 'www.linkedin.com/in/alessia-menichetti-1a0975100'
+    link: 'https://www.linkedin.com/in/alessia-menichetti-1a0975100'
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
