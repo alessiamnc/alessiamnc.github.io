@@ -64,5 +64,5 @@ social:
     # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. student at the Finance department of the Stockholm School of Economics and at the Swedish House of Finance. My research is mostly theoretical and my interests include asset pricing, household finance, information economics, and social learning. 
+I am a Ph.D. student at the Finance department of the Stockholm School of Economics and at the Swedish House of Finance. My research is mostly theoretical and my fields of interests include asset pricing, household finance, and information economics. Specifically, I am interested in studying how retail investors and households' financial decisions are affected by the information they receive, under full and bounded rationality.     
 {style="text-align: justify;"}
