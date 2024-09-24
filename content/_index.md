@@ -10,6 +10,12 @@ sections:
       title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: cv
+    id: CV
+    content:
+      title: Vitae
+      subtitle:
+      text: {{% staticref "uploads/cv.pdf" %}}Please find my updated CV here.{{% /staticref %}}
   - block: contact
     id: contact
     content:
