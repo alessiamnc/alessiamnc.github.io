@@ -14,6 +14,8 @@ sections:
     id: wp
     content:
       title: Working papers
+      subtitles: Job Market Paper
+      text: Draft available soon
   - block: contact
     id: contact
     content:
