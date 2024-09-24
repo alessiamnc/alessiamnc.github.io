@@ -13,8 +13,7 @@ sections:
   - block: cv
     id: CV
     content:
-      title: Vitae
-      subtitle:
+      title: Vita
       text: {{% staticref "uploads/cv.pdf" %}}Please find my updated CV here.{{% /staticref %}}
   - block: contact
     id: contact
