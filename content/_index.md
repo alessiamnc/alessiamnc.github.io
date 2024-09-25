@@ -10,12 +10,6 @@ sections:
       title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: wp
-    id: wp
-    content:
-      title: Working papers
-      subtitles: Job Market Paper
-      text: Draft available soon
   - block: contact
     id: contact
     content:
