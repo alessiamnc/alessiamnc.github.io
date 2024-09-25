@@ -7,9 +7,6 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Working Papers
-    url: '#wp'
-    weight: 10
   - name: Contact
     url: '#contact'
     weight: 60
