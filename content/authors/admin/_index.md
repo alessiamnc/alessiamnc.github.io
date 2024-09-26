@@ -32,16 +32,17 @@ interests:
   - Finance theory
   - Asset pricing
   - Information economics
-  - Household finance
+  - Household Finance
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Finance
       institution: Stockholm School of Economics
-      year: Exp. 2025
+      year: Expected 2025
     - course: MSc Finance and Investments (double-degree)
       institution: Rotterdam School of Management
+      grade: cum laude
       year: 2019
     - course: MSc Finance (double-degree)
       institution: Bocconi University
