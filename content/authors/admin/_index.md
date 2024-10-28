@@ -70,7 +70,7 @@ highlight_name: true
 ---
 I am a Ph.D. student at the Finance department of the Stockholm School of Economics and at the Swedish House of Finance. My research is mostly theoretical and my fields of interests include asset pricing, household finance, and information economics. In my research, I study how retail investors and households' financial decisions are affected by the information they receive, under full and bounded rationality. 
 
-**I will be on the 2024-2025 Job Market.** 
+**I will be on the 2024-2025 Job Market.** [You can find my Job Market Paper here](https://www.dropbox.com/scl/fi/bh20o5p6u21d6uiokrj87/Correlation_Neglect.pdf?rlkey=jvfduclbeyvos48pekwm3vzp4&st=noak5alv&dl=0)
 
 Prior to joining the PhD program at SSE, I was a trainee in DG-Monetary Policy at the European Central Bank and in DG-ECFIN at the European Commission. I hold a B.Sc. in International Economics, Management and Finance (major in Finance) from Bocconi University, a M.Sc. Finance from Bocconi University and a M.Sc. Finance and Investments from Rotterdam School of Management, Erasmus University (double-degree program). 
 {style="text-align: justify;"}
