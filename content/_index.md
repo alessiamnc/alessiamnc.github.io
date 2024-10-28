@@ -17,7 +17,7 @@ sections:
           icon: readthedocs
           icon_pack: devicon
           url: 'https://www.dropbox.com/scl/fi/bh20o5p6u21d6uiokrj87/Correlation_Neglect.pdf?rlkey=jvfduclbeyvos48pekwm3vzp4&st=noak5alv&dl=0'
-- block: contact
+  - block: contact
     id: contact
     content:
       title: Contact
