@@ -10,13 +10,14 @@ sections:
       title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    - block: buttons
+  - block: buttons
     content:
       buttons:
         - title: Job Market Paper
-          icon: devicon/readthedocs
-          url: https://www.dropbox.com/scl/fi/bh20o5p6u21d6uiokrj87/Correlation_Neglect.pdf?rlkey=jvfduclbeyvos48pekwm3vzp4&st=noak5alv&dl=0
-    - block: contact
+          icon: readthedocs
+          icon_pack: devicon
+          url: 'https://www.dropbox.com/scl/fi/bh20o5p6u21d6uiokrj87/Correlation_Neglect.pdf?rlkey=jvfduclbeyvos48pekwm3vzp4&st=noak5alv&dl=0'
+- block: contact
     id: contact
     content:
       title: Contact
