@@ -3,6 +3,7 @@
 title: ''
 date: 2022-10-24
 type: landing
+
 sections:
   - block: about.biography
     id: about
@@ -10,6 +11,12 @@ sections:
       title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: research
+    id: research
+    content:
+      title: Research
+      subtitle: Research in Progress
+      text: Work in progress
   - block: contact
     id: contact
     content:
