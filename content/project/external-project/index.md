@@ -4,7 +4,7 @@ summary: Motivated by the widespread repetition of information in online media, 
 
 tag: 
   - JMP
-date: "2024-11-26T00:00:00Z"
+# date: "2024-11-26T00:00:00Z"
 
 
 # Optional external URL for project (replaces project detail page).
