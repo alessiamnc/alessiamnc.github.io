@@ -29,7 +29,7 @@ sections:
         - name: All
           tag: '*'
         - name: Job Market Paper
-          tag: JMP
+          tag: 'JMP'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
