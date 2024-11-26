@@ -1,7 +1,6 @@
 ---
 title: Job Market Paper
 summary: **Abstract:**  Motivated by the widespread repetition of information in online media, this paper develops an asset pricing model in which agents receive information containing common noise but fail to recognize the correlation between their own signals and those of others. This misperception leads to heightened trading aggressiveness on new information, price overreactions, and increased price informativeness. The model consistently predicts excess trading volumes and return reversals, and may also account for excess volatility. By categorizing agents into belief groups based on shared group-level noise, the analysis links the severity of the foregone correlation adjustment to the quantity of original information, with the bias disappearing as the repetition of information approaches zero.
-Find my JMP `here`.
 
 
 tag: 
