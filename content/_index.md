@@ -14,7 +14,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
           - project
@@ -25,14 +25,14 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-       buttons:
+      buttons:
         - name: All
           tag: '*'
         - name: Job Market Paper
-          tag: 'JMP'
+          tag: JMP
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
