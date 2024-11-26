@@ -30,8 +30,6 @@ sections:
           tag: '*'
         - name: Job Market Paper
           tag: JMP
-       - name: Other
-          tag: FA
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
