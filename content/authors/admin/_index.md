@@ -29,10 +29,12 @@ bio: My research interests include finance theory, asset pricing, market microst
 
 # Interests to show in About widget
 interests:
-  - Finance theory
-  - Asset pricing
-  - Information economics
+  - Finance Theory
+  - Asset Pricing
+  - Market Microstructure
+  - Information Economics
   - Household Finance
+  - Behavioral Finance
 
 # Education to show in About widget
 education:
