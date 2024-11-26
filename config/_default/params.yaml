@@ -4,11 +4,12 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+#originally all set to minimal
 
 appearance:
-  theme_day: minimal
+  theme_day: strawberry
   theme_night: minimal
-  font: minimal
+  font: rose
   font_size: L
 
 # SEO
