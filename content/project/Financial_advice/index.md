@@ -1,6 +1,6 @@
 ---
 title: An equilibrium model with financial advice and heterogeneously sophisticated agents
-summary: Draft coming soon.
+summary: Draft under review.
 
 tag: 
   - FA
