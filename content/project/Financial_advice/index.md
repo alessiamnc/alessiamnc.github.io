@@ -1,6 +1,6 @@
 ---
-title: Other Projects
-summary: An equilibrium model with financial advice and heterogeneously sophisticated agents, draft coming soon.
+title: An equilibrium model with financial advice and heterogeneously sophisticated agents
+summary: Draft coming soon.
 
 tag: 
   - FA
