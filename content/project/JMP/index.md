@@ -5,7 +5,7 @@ summary: Motivated by the widespread repetition of information in online media, 
 tag: 
   - JMP
 # date: "2024-11-26T00:00:00Z"
-
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
 here: https://www.dropbox.com/scl/fi/bh20o5p6u21d6uiokrj87/Correlation_Neglect.pdf?rlkey=jvfduclbeyvos48pekwm3vzp4&st=noak5alv&dl=0
