@@ -66,7 +66,7 @@ social:
     link: 'https://www.linkedin.com/in/alessia-menichetti-1a0975100'
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/resume (1).pdf
     # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
