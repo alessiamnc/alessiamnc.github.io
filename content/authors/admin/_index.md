@@ -74,7 +74,7 @@ I am an assistant professor of Finance at ESCP Business School in the Madrid Cam
 
 My research is primarily theoretical, focusing on asset pricing, market microstructure and household finance. I am interested in exploring how the financial decisions of retail investors and households are influenced by the information they receive, under both full and bounded rationality. 
 
-In addition to my Ph.D., I hold a BSc in International Economics, Management and Finance from Bocconi University, and a MSc Finance from Bocconi University and MSc Finance & Investments from Rotterdam School of Management (double degree). Before joining the Ph.D. program at SSE, I worked as a trainee in DG Monetary Policy at the European Central Bank (ECB) and in DG ECFIN at the European Commission. 
+Before joining the Ph.D. program at SSE, I worked as a trainee in DG Monetary Policy at the European Central Bank (ECB) and in DG ECFIN at the European Commission. 
 
 
 {style="text-align: justify;"}
