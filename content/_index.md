@@ -42,8 +42,8 @@ sections:
       title: Contact
       subtitle:
       text: Feel free to reach out via one of the following options.
-      email: alessia.menichetti@phdstudent.hhs.se
-      phone: +46 724032450
+      email: amenichetti@escp.eu
+      phone: +34 624813448
       contact_links:
         - icon: twitter
           icon_pack: fab
