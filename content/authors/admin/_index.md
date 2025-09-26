@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Finance
+role: Assistant Professor of Finance
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stockholm School of Economics
-    url: https://www.hhs.se/en/Research/Departments/DF/
+  - name: ESCP Business School
+    url: https://escp.eu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include finance theory, asset pricing, market microstructure, information economics, behavioral and household finance.
@@ -41,7 +41,7 @@ education:
   courses:
     - course: PhD in Finance
       institution: Stockholm School of Economics
-      year: Expected 2025
+      year: 2025
     - course: MSc Finance and Investments (double-degree)
       institution: Rotterdam School of Management
       grade: cum laude
@@ -60,7 +60,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:alessia.menichetti@phdstudent.hhs.se'
+    link: 'mailto:amenichetti@escp.eu'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/alessia-menichetti-1a0975100'
@@ -70,11 +70,11 @@ social:
     # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. student in the Finance Department at the Stockholm School of Economics (SSE) and the Swedish House of Finance. 
+I am an assistant professor of Finance at ESCP Business School in the Madrid Campus. I received my Ph.D. in Finance from the Stockholm School of Economics (SSE).
 
 My research is primarily theoretical, focusing on asset pricing, market microstructure and household finance. The questions I address also relate to information economics and behavioral finance. In my projects, I explore how the financial decisions of retail investors and households are influenced by the information they receive, under both full and bounded rationality. 
 
-I hold a BSc in International Economics, Management and Finance from Bocconi University, and a MSc Finance from Bocconi University and MSc Finance & Investments from Rotterdam School of Management (double degree). Before joining the Ph.D. program at SSE, I worked as a trainee in DG Monetary Policy at the European Central Bank (ECB) and in DG ECFIN at the European Commission. 
+In addition to my Ph.D., I hold a BSc in International Economics, Management and Finance from Bocconi University, and a MSc Finance from Bocconi University and MSc Finance & Investments from Rotterdam School of Management (double degree). Before joining the Ph.D. program at SSE, I worked as a trainee in DG Monetary Policy at the European Central Bank (ECB) and in DG ECFIN at the European Commission. 
 
 
 {style="text-align: justify;"}
