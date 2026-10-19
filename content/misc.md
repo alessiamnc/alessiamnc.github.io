@@ -5,13 +5,13 @@ commentable: false
 editable: false
 ---
 
-A few things that keep me busy outside of finance.
+A few things about me (outside finance).
 
 ## Boxing
-I started boxing back in 2013 and haven't gotten bored of it yet. True to my theoretical side, I prefer technique training to actual sparring.
+I started boxing back in 2013 and haven't gotten bored of it yet. Consistently with my theoretical side, I prefer technique training to actual sparring.
 
 ## Theater and performing arts
-Theater was probably my biggest passion. Unfortunately, I stopped when I moved abroad. I still love live performance in all its forms.
+Theater was probably my biggest passion. Unfortunately, I stopped when I moved abroad. I still love all sorts of performances.
 
 ## Historical documentaries
-Historical documentaries are my comfort watch, what I tune into when I’m having a bad day or feeling sick.
+When I'm having a bad day or I'm sick, I usually like to tune into historical documentaries or podcasts.
