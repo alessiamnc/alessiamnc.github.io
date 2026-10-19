@@ -28,13 +28,7 @@ organizations:
 bio: My research interests include finance theory, asset pricing, market microstructure, information economics, behavioral and household finance.
 
 # Interests to show in About widget
-interests:
-  - Finance Theory
-  - Asset Pricing
-  - Market Microstructure
-  - Information Economics
-  - Household Finance
-  - Behavioral Finance
+# interests: - Finance Theory - Asset Pricing - Market Microstructure - Information Economics - Household Finance - Behavioral Finance
 
 # Education to show in About widget
 education:
@@ -42,13 +36,10 @@ education:
     - course: PhD in Finance
       institution: Stockholm School of Economics
       year: 2025
-    - course: MSc Finance and Investments (double-degree)
-      institution: Rotterdam School of Management
+    - course: MSc Finance; MSc Finance and Investments (double-degree)
+      institution: Bocconi University and Rotterdam School of Management
       grade: cum laude
-      year: 2019
-    - course: MSc Finance (double-degree)
-      institution: Bocconi University
-      year: 2018
+      year: 2018 and 2019
     - course: BSc in International Economics, Management and Finance
       institution: Bocconi University
       year: 2015
