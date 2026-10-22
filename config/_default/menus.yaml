@@ -13,7 +13,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: Misc
+  - name: Miscellaneous
     url: misc/
     weight: 40
 
