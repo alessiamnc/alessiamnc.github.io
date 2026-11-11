@@ -1,22 +1,30 @@
 # Theme metadata
 name = "Burgundy"
 
-# Is theme light or dark?
-light = true
+[light]
+  # Primary (links, buttons, accents)
+  primary = "#800020"
 
-# Primary (links, buttons, accents)
-primary = "#800020"
+  # Menu (burgundy navbar with white text)
+  menu_primary = "#800020"
+  menu_text = "#ffffff"
+  menu_text_active = "#f8d7dd"
+  menu_title = "#ffffff"
 
-# Menu (burgundy navbar with white text)
-menu_primary = "#800020"
-menu_text = "#ffffff"
-menu_text_active = "#f8d7dd"
-menu_title = "#ffffff"
-
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
 
 [dark]
-  link = "#e8a0ae"
-  link_hover = "#f8d7dd"
+  # Primary (lighter rose so links stay readable on dark background)
+  primary = "#e8a0ae"
+
+  # Menu
+  menu_primary = "#5c0017"
+  menu_text = "#ffffff"
+  menu_text_active = "#f8d7dd"
+  menu_title = "#ffffff"
+
+  # Home sections
+  home_section_odd = "rgb(18, 18, 18)"
+  home_section_even = "rgb(28, 28, 28)"
