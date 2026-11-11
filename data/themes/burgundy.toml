@@ -1,0 +1,22 @@
+# Theme metadata
+name = "Burgundy"
+
+# Is theme light or dark?
+light = true
+
+# Primary (links, buttons, accents)
+primary = "#800020"
+
+# Menu (burgundy navbar with white text)
+menu_primary = "#800020"
+menu_text = "#ffffff"
+menu_text_active = "#f8d7dd"
+menu_title = "#ffffff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#e8a0ae"
+  link_hover = "#f8d7dd"
