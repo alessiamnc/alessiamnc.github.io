@@ -1,6 +1,6 @@
 ---
-title: An equilibrium model with financial advice and heterogeneously sophisticated agents
-summary: (Draft being revised). This paper studies financial advice in a noisy rational expectations economy where households differ in the precision of their private information and in their ability to learn from prices, and advice may improve either. Advice and price informativeness are substitutes when advice mainly supplies private information, and complements when it mainly improves price interpretation. Only the first channel is impounded into prices. Advice can narrow the information gap between sophisticated and unsophisticated households without narrowing their welfare gap, and its relation to price informativeness can differ across levels of sophistication.
+title: Markets with financial advice and heterogeneously sophisticated agents
+summary: (Draft being revised. Subsumes "An equilibrium model with financial advice and heterogeneously sophisticated agents"). This paper studies financial advice in a noisy rational expectations economy where households differ in the precision of their private information and in their ability to learn from prices, and advice may improve either. Advice and price informativeness are substitutes when advice mainly supplies private information, and complements when it mainly improves price interpretation. Only the first channel is impounded into prices. Advice can narrow the information gap between sophisticated and unsophisticated households without narrowing their welfare gap, and its relation to price informativeness can differ across levels of sophistication.
 
 tag: 
   - FA
