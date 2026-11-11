@@ -10,7 +10,7 @@ sections:
         A few things about me (outside finance).
 
         ## Boxing
-        I started boxing back in 2013 and haven't gotten bored of it yet. Consistently with my theoretical side, I prefer technique training to actual sparring.
+        I started boxing back in 2013 and haven't gotten bored of it yet. Consistent with my theoretical side, I prefer technique training to actual sparring.
 
         ## Theater and performing arts
         Theater was probably my biggest passion. Unfortunately, I stopped when I moved abroad. I still love all sorts of performances.
