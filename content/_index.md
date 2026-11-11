@@ -18,11 +18,11 @@ sections:
       subtitle:
       text: Feel free to reach out via one of the following options.
       email: amenichetti@escp.eu
-      phone: +34 624813448
+      # phone: +34 624813448
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: Find me on X (former Twitter)
+          name: Find me on X (formerly Twitter)
           link: 'https://twitter.com/alessiamnc_'
       # Automatically link email and phone or display as text?
       autolink: true
