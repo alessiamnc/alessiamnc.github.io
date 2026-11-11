@@ -2,7 +2,7 @@
 name = "Elegant"
 
 # Google Fonts to load
-google_fonts = "Playfair+Display:400,700|Lato:400,400italic,700|Roboto+Mono&display=swap"
+google_fonts = "family=Playfair+Display:wght@400;700&family=Lato:ital,wght@0,400;0,700;1,400&family=Roboto+Mono"
 
 # Font families
 heading_font = "Playfair Display"
