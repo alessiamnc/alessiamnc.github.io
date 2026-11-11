@@ -7,8 +7,8 @@
 #originally all set to minimal
 
 appearance:
-  theme_day: strawberry
-  theme_night: strawberry
+  theme_day: burgundy
+  theme_night: burgundy
   font: minimal
   font_size: M
 
