@@ -16,5 +16,5 @@ sections:
       view: compact
       flip_alt_rows: false
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['60px', '0', '60px', '0']
 ---
