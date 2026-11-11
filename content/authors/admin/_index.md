@@ -31,18 +31,18 @@ bio: My research interests include finance theory, asset pricing, market microst
 # interests: - Finance Theory - Asset Pricing - Market Microstructure - Information Economics - Household Finance - Behavioral Finance
 
 # Education to show in About widget
-education:
-  courses:
-    - course: PhD in Finance
-      institution: Stockholm School of Economics
-      year: 2025
-    - course: MSc Finance; MSc Finance and Investments (double-degree)
-      institution: Bocconi University and Rotterdam School of Management
-      grade: cum laude
-      year: 2018 and 2019
-    - course: BSc in International Economics, Management and Finance
-      institution: Bocconi University
-      year: 2015
+#education:
+#  courses:
+#    - course: PhD in Finance
+#      institution: Stockholm School of Economics
+#      year: 2025
+#    - course: MSc Finance; MSc Finance and Investments (double-degree)
+#      institution: Bocconi University and Rotterdam School of Management
+#      grade: cum laude
+#      year: 2018 and 2019
+#    - course: BSc in International Economics, Management and Finance
+#      institution: Bocconi University
+#      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,11 +61,10 @@ social:
     # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an assistant professor of Finance at ESCP Business School in the Madrid Campus. I received my Ph.D. in Finance from the Stockholm School of Economics (SSE).
+I am an Assistant Professor of Finance at ESCP Business School, Madrid campus. I received my Ph.D. in Finance from the Stockholm School of Economics.
 
-My research is primarily theoretical, focusing on asset pricing, market microstructure and household finance. I am interested in exploring how the financial decisions of retail investors and households are influenced by the information they receive, under both full and bounded rationality. 
+My research is primarily theoretical, focusing on asset pricing, market microstructure and household finance. I study how the information investors and households receive shapes their financial decisions and, in turn, market outcomes, under both full and bounded rationality. 
 
-Before joining the Ph.D. program at SSE, I worked as a trainee in DG Monetary Policy at the European Central Bank (ECB) and in DG ECFIN at the European Commission. 
-
+Before my Ph.D., I worked as a trainee in DG Monetary Policy at the European Central Bank and in DG ECFIN at the European Commission. I also hold an MSc in Finance from Bocconi University and an MSc in Finance and Investments from Rotterdam School of Management (double-degree program).
 
 {style="text-align: justify;"}
